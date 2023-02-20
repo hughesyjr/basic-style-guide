@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="styles.css" type="text/css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- This is the header section -->
+    <header>
+      <h1 class="banner">My Website Style Guide</h1>
+    </header>
+    <!-- This is the main section -->
+    <main>
+      <!-- Colours section -->
+      <section class="colors">
+        <div class="container">
+          <h2 class="subheads">Colors</h2>
+          <div class="bluesection">Sky Blue<p>#135, 206, 235</p>
+          </div>
+          <div class="pinksection">Baby Pink<p>#255, 192, 203</p>
+          </div>
+          <div class="beigesection">Beige<p>#245, 245, 220</p>
+          </div>
+          <div class="greensection">Green
+          <p class="greenhex">#144, 238, 144</p>
+          </div>
+        </div>
+      </section>
+      <!-- Fonts section -->
+      <section>
+        <div class="container">
+          <h2 class="subheads">Fonts</h2>
+          <div class="opensans">
+            <h2>Open Sans</h2>
+            <p>The quick brown fox jumped over the lazy dog</p>
+            <p><strong>The quick brown fox jumped over the lazy dog</strong></p>
+            <p><em>The quick brown fox jumped over the lazy dog</em></p>
+          </div>
+          <div class="playfair">
+            <h2>Playfair Display</h2>
+            <p>The quick brown fox jumped over the lazy dog</p>
+            <p><strong>The quick brown fox jumped over the lazy dog</strong></p>
+            <p><em>The quick brown fox jumped over the lazy dog</em></p>
+          </div>
+        </div>
+      </section>
+      <!-- Text styles section -->
+      <section class="text-styles">
+        <div class="container">
+          <h2 class="subheads">Text Styles</h2>
+          <h1 class="banner">H1 Main page heading</h1>
+          <ul class="jibber">
+            <li>Font family: Open Sans</li>
+            <li>Font weight: 600</li>
+            <li>Font size: 24 pixels</li>
+          </ul>
+          <h2 class="subheads">H2: Subheadings</h2>
+          <ul class="jibber">
+            <li>Font family: Open Sans</li>
+            <li>Font weight: 400 (regular)</li>
+            <li>Font size: 18 pixels</li>
+          </ul>
+          <p class="para-text">Paragraph text</p>
+          <ul class="jibber">
+            <li>Font family: Playfair Display</li>
+            <li>Font weight: 400 (regular)</li>
+            <li>Font size: 16 pixels</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+    <!-- This is the footer section -->
+    <footer></footer>
+  </body>
+</html>
