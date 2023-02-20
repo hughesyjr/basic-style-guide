@@ -1,0 +1,109 @@
+html {
+  background-image: url("https://www.pngitem.com/pimgs/m/355-3554200_mocking-spongebob-png-spongebob-meme-transparent-background-png.png")
+}
+
+.banner {
+  font-family: "Open Sans";
+  font-weight: 500px;
+  font-size: 28px;
+  margin-left: 5px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.subheads {
+  font-family: "Open Sans";
+  font-weight: 600px;
+  font-size: 24px;
+  margin-left: 15px;
+}
+
+.opensans {
+  font-family: "Open Sans";
+  margin-left: 15px;
+}
+
+.para-text {
+  font-family: "Playfair Display";
+  font-size: 16px;
+  margin-left:15px;
+}
+
+.jibber {
+  font-family: "Playfair Display";
+  font-size: 16px;
+  margin-left: 15px;
+}
+
+.playfair {
+  font-family: "Playfair Display";
+  margin-left: 15px;
+}
+
+.opensans h2 {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.playfair h2 {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+ h1.banner {
+  margin-left: 15px;
+}
+
+.container {
+  border: 2px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+.colors {
+  font-family: "Playfair Display";
+  font-size: 18px;
+  font-weight: 600px;
+}
+
+.bluesection {
+  display: inline-block;
+  text-align: center;
+  background-color: skyblue;
+  padding: 30px;
+  margin: 15px;
+  min-height: 50px;
+  width: 33%;
+}
+
+.pinksection {
+  display: inline-block;
+  text-align: center;
+  background-color: pink;
+  color: white;
+  padding: 30px;
+  margin: 15px;
+  min-height: 50px;
+  width: 33%;
+}
+
+.beigesection {
+  display: inline-block;
+  text-align: center;
+  background-color: beige;
+  padding: 30px;
+  margin: 15px;
+  min-height: 50px;
+  width: 33%;
+}
+
+.greensection {
+  display: inline-block;
+  text-align: center;
+  background-color: lightgreen;
+  padding: 30px;
+  margin: 15px;
+  min-height: 50px;
+  width: 33%;
+}
+
